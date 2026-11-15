@@ -1,0 +1,7 @@
+{
+  "id": "com.gautam.lossless.vault",
+  "version": "1.2.0",
+  "name": "Gautam's Lossless Vault",
+  "resources": ["search", "stream"],
+  "bitchordAuth": true
+}
